@@ -1,5 +1,5 @@
 ---
-title: Test
+title: "Test"
 date: 2024-10-22
 ---
 
